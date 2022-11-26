@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreita3
+- 👋 Hi, I’m Andrea Tinsley
 - 👀 I’m interested in embedded systems and mainly know how to code in Java and C.
 - 🌱 I’m currently learning about circuits, AI/ML and hardware systems. 
 
